@@ -6,6 +6,7 @@ const { Deepgram } = require("@deepgram/sdk");
 const { PassThrough } = require("stream");
 const textToSpeech = require("@google-cloud/text-to-speech");
 const { Readable } = require("stream");
+const serverless = require("@vendia/serverless-express");
 
 const app = express();
 app.use(cors());
