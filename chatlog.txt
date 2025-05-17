@@ -1,0 +1,52 @@
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"user","content":"Hello? Are you listening?"}
+{"type":"ConversationText","role":"assistant","content":"Yes, I’m here!"}
+{"type":"ConversationText","role":"assistant","content":"How can I assist you today?"}
+{"type":"ConversationText","role":"user","content":"Regard."}
+{"type":"ConversationText","role":"assistant","content":"Thank you!"}
+{"type":"ConversationText","role":"assistant","content":"Is there something specific you'd like to discuss or ask about?"}
+{"type":"ConversationText","role":"assistant","content":"It seems like you might not have finished your thought."}
+{"type":"ConversationText","role":"assistant","content":"If you have something on your mind, feel free to share it!"}
+{"type":"ConversationText","role":"assistant","content":"I'm here to help."}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"user","content":"You"}
+{"type":"ConversationText","role":"assistant","content":"It seems like you might be looking for something specific."}
+{"type":"ConversationText","role":"assistant","content":"How can I assist you today?"}
+{"type":"ConversationText","role":"user","content":"Can"}
+{"type":"ConversationText","role":"user","content":"you send the sample"}
+{"type":"ConversationText","role":"assistant","content":"Sure!"}
+{"type":"ConversationText","role":"user","content":"Deepgram."}
+{"type":"ConversationText","role":"assistant","content":"Deepgram is an AI-powered speech recognition platform that provides services such as voice-to-text transcription, speech analytics, and more."}
+{"type":"ConversationText","role":"assistant","content":"They offer various APIs and tools to help developers integrate speech recognition capabilities into their applications."}
+{"type":"ConversationText","role":"assistant","content":"If you're looking for a specific sample or information about using Deepgram, such as code examples, features, or documentation, please let me know!"}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"user","content":"Can you me?"}
+{"type":"ConversationText","role":"assistant","content":"It looks like your message might have been cut off."}
+{"type":"ConversationText","role":"assistant","content":"Could you please provide more details about what you need help with?"}
+{"type":"ConversationText","role":"user","content":"It's kind of"}
+{"type":"ConversationText","role":"assistant","content":"No problem!"}
+{"type":"ConversationText","role":"assistant","content":"Take your time to explain, and I'm here to help with whatever you need."}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"user","content":"Hello?"}
+{"type":"ConversationText","role":"assistant","content":"Hi there!"}
+{"type":"ConversationText","role":"assistant","content":"How can I assist you today?"}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"assistant","content":"Hello! How can I help you today?"}
+{"type":"ConversationText","role":"user","content":"Hey."}
+{"type":"ConversationText","role":"assistant","content":"Hi there!"}
+{"type":"ConversationText","role":"assistant","content":"How's it going?"}
+{"type":"ConversationText","role":"user","content":"Line."}
+{"type":"ConversationText","role":"assistant","content":"It seems like you mentioned \"Line.\" Could you clarify what you mean?"}
+{"type":"ConversationText","role":"assistant","content":"Are you referring to the messaging app, a line of text, or something else?"}
+{"type":"ConversationText","role":"assistant","content":"It looks like you might be sending a line or a dash."}
+{"type":"ConversationText","role":"assistant","content":"How can I assist you further?"}
+{"type":"ConversationText","role":"assistant","content":"If you have a specific question or topic in mind, feel free to share!"}
