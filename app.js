@@ -76,8 +76,8 @@ const agent = async () => {
         },
         output: {
           encoding: "linear16",
-          sample_rate: 16000,
-          container: "wav",
+          sample_rate: 24000,
+          container: "none",
         },
       },
       agent: {
@@ -160,7 +160,7 @@ const agent = async () => {
 
     // Convert to WAV
     const samples = new Int16Array(audioBuffer.buffer, audioBuffer.byteOffset, audioBuffer.length / 2);
-    const wavBuffer = wav.encode([samples], { sampleRate: 16000, float: false, bitDepth: 16 });
+    const wavBuffer = wav.encode([samples], { sampleRate: 24000, float: false, bitDepth: 16 });
 
     const filename = join(__dirname, `output-${i}.wav`);
     console.log("💾 Saving agent audio to file:", filename);
