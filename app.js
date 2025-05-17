@@ -5,8 +5,9 @@ const fetch = require("cross-fetch");
 const { join } = require("path");
 const wav = require("node-wav");
 const WebSocket = require("ws");
+require('dotenv').config();
 
-const wss = new WebSocket.Server({ port: 5000 });
+const wss = new WebSocket.Server(process.env.PORT);
 let clients = [];
 
 console.log("📡 WebSocket server started on port 5000");
